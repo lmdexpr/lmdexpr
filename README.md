@@ -14,13 +14,8 @@ functional programming language freak.
 	<img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/lmdexpr/lmdexpr/output-3d-contrib/day.svg" />
   </picture>
 </p>
-<p align="left" >
-	<picture>
-	  <source media="(prefers-color-scheme: dark)"  srcset="profile-3d-contrib/profile-night-rainbow.svg" width="700" />
-	  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-season-animate.svg" width="700" />
-	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/lmdexpr/lmdexpr/output-3d-contrib/day.svg" />
-	</picture>
-</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=lmdexpr&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Books
 - [Zenn](https://zenn.dev/lmdexpr)

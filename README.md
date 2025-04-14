@@ -31,5 +31,5 @@ functional programming language freak.
 
 ### Contact
 - Discord: lmdexpr
-- [Bluesky](https://bsky.app/profile/lmdexpr.com)
+- [Bluesky](https://bsky.app/profile/lmdex.pro)
 - [Twitter](https://twitter.com/lmdexpr)

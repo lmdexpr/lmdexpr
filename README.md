@@ -17,8 +17,9 @@ functional programming language freak.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=lmdexpr&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-### Books
+### Blog posts, Slides, ...
 - [Zenn](https://zenn.dev/lmdexpr)
+- [slides](https://github.com/lmdexpr/slides)
 
 ### Career
 - Working as a software engineer @ [エムスリー株式会社](https://corporate.m3.com) (2025-02-01 ~)  

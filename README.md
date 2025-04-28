@@ -17,9 +17,18 @@ functional programming language freak.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=lmdexpr&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![Rating](https://badgen.org/img/atcoder/lmdexpr/rating/algorithm?style=for-the-badge)](https://atcoder.jp/users/lmdexpr?contestType=algo)
+[![Rating(Heuristic)](https://badgen.org/img/atcoder/lmdexpr/rating/heuristic?style=for-the-badge)](https://atcoder.jp/users/lmdexpr?contestType=heuristic)
+
 ### Blog posts, Slides, ...
-- [Zenn](https://zenn.dev/lmdexpr)
-- [slides](https://github.com/lmdexpr/slides)
+
+[slides](https://github.com/lmdexpr/slides)
+
+[![Likes](https://badgen.org/img/zenn/lmdexpr/likes?style=for-the-badge)](https://zenn.dev/lmdexpr)
+[![Followers](https://badgen.org/img/zenn/lmdexpr/followers?style=for-the-badge)](https://zenn.dev/lmdexpr)
+[![Articles](https://badgen.org/img/zenn/lmdexpr/articles?style=for-the-badge)](https://zenn.dev/lmdexpr)
+[![Books](https://badgen.org/img/zenn/lmdexpr/books?style=for-the-badge)](https://zenn.dev/lmdexpr?tab=books)
+[![Scraps](https://badgen.org/img/zenn/lmdexpr/scraps?style=for-the-badge)](https://zenn.dev/lmdexpr?tab=scraps)
 
 ### Career
 - Working as a software engineer @ [エムスリー株式会社](https://corporate.m3.com) (2025-02-01 ~)  
@@ -30,6 +39,9 @@ functional programming language freak.
 - Graduated Associate Degree of Engineering @ [熊本高専 熊本キャンパス](https://kumamoto-nct.ac.jp/) (2012-04 ~ 2017-03)  
 
 ### Contact
-- Discord: lmdexpr
-- [Bluesky](https://bsky.app/profile/lmdex.pro)
-- [Twitter](https://twitter.com/lmdexpr)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discordapp.com/users/lmdexpr)
+
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40lmdexpr)](https://twitter.com/lmdexpr)
+
+[![Followers](https://badgen.org/img/bluesky/lmdex.pro/followers?style=for-the-badge)](https://bsky.app/profile/lmdex.pro)
+[![Posts](https://badgen.org/img/bluesky/lmdex.pro/posts?style=for-the-badge)](https://bsky.app/profile/lmdex.pro)

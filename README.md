@@ -20,9 +20,16 @@ functional programming language freak.
 [![Rating](https://badgen.org/img/atcoder/lmdexpr/rating/algorithm?style=for-the-badge)](https://atcoder.jp/users/lmdexpr?contestType=algo)
 [![Rating(Heuristic)](https://badgen.org/img/atcoder/lmdexpr/rating/heuristic?style=for-the-badge)](https://atcoder.jp/users/lmdexpr?contestType=heuristic)
 
-### Blog posts, Slides, ...
+### Books, Blog posts, Slides, ...
 
-[slides](https://github.com/lmdexpr/slides)
+- Software Design
+  - つまみぐい関数型プログラミング
+    - [【1】関数型プログラミングとは何か？](https://gihyo.jp/magazine/SD/archive/2025/202506)
+
+- Slides
+  - https://github.com/lmdexpr/slides
+
+- Zenn
 
 [![Likes](https://badgen.org/img/zenn/lmdexpr/likes?style=for-the-badge)](https://zenn.dev/lmdexpr)
 [![Followers](https://badgen.org/img/zenn/lmdexpr/followers?style=for-the-badge)](https://zenn.dev/lmdexpr)

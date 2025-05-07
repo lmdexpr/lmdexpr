@@ -23,19 +23,15 @@ functional programming language freak.
 ### Books, Blog posts, Slides, ...
 
 - Software Design
-  - つまみぐい関数型プログラミング
+  - 連載: つまみぐい関数型プログラミング
     - [【1】関数型プログラミングとは何か？](https://gihyo.jp/magazine/SD/archive/2025/202506)
 
 - Slides
   - https://github.com/lmdexpr/slides
 
 - Zenn
-
-[![Likes](https://badgen.org/img/zenn/lmdexpr/likes?style=for-the-badge)](https://zenn.dev/lmdexpr)
-[![Followers](https://badgen.org/img/zenn/lmdexpr/followers?style=for-the-badge)](https://zenn.dev/lmdexpr)
-[![Articles](https://badgen.org/img/zenn/lmdexpr/articles?style=for-the-badge)](https://zenn.dev/lmdexpr)
-[![Books](https://badgen.org/img/zenn/lmdexpr/books?style=for-the-badge)](https://zenn.dev/lmdexpr?tab=books)
-[![Scraps](https://badgen.org/img/zenn/lmdexpr/scraps?style=for-the-badge)](https://zenn.dev/lmdexpr?tab=scraps)
+  - https://github.com/lmdexpr/zenn-docs
+  - [![Likes](https://badgen.org/img/zenn/lmdexpr/likes?style=for-the-badge)](https://zenn.dev/lmdexpr) [![Followers](https://badgen.org/img/zenn/lmdexpr/followers?style=for-the-badge)](https://zenn.dev/lmdexpr) [![Articles](https://badgen.org/img/zenn/lmdexpr/articles?style=for-the-badge)](https://zenn.dev/lmdexpr) [![Books](https://badgen.org/img/zenn/lmdexpr/books?style=for-the-badge)](https://zenn.dev/lmdexpr?tab=books) [![Scraps](https://badgen.org/img/zenn/lmdexpr/scraps?style=for-the-badge)](https://zenn.dev/lmdexpr?tab=scraps)
 
 ### Career
 - Working as a software engineer @ [エムスリー株式会社](https://corporate.m3.com) (2025-02-01 ~)  

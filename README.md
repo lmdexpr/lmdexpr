@@ -44,7 +44,10 @@ functional programming language freak.
 - Graduated Associate Degree of Engineering @ [熊本高専 熊本キャンパス](https://kumamoto-nct.ac.jp/) (2012-04 ~ 2017-03)  
 
 ### Contact
+Email: `lmdexpr@gmail.com`
+
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discordapp.com/users/lmdexpr)
+(誰か分からない場合、reject する可能性が高いです)
 
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40lmdexpr)](https://twitter.com/lmdexpr)
 

@@ -26,6 +26,7 @@ functional programming language freak.
   - 連載: つまみぐい関数型プログラミング
     - [【1】関数型プログラミングとは何か？](https://gihyo.jp/magazine/SD/archive/2025/202506)
     - [【2】「式」と「不変性」の考え方](https://gihyo.jp/magazine/SD/archive/2025/202507)
+    - [【3】関数型プログラミングの便利な道具①：パターンマッチ](https://gihyo.jp/magazine/SD/archive/2025/202508)
 
 - Slides
   - https://github.com/lmdexpr/slides

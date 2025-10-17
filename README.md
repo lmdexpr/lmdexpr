@@ -29,6 +29,7 @@ functional programming language freak.
     - [【3】関数型プログラミングの便利な道具①：パターンマッチ](https://gihyo.jp/magazine/SD/archive/2025/202508)
     - [【4】関数型プログラミングの便利な道具②：高階関数](https://gihyo.jp/magazine/SD/archive/2025/202509)
     - [【5】関数型プログラミングの考え方を活用してみよう](https://gihyo.jp/magazine/SD/archive/2025/202510)
+    - [【6】関数型プログラミング言語に触れてみよう](https://gihyo.jp/magazine/SD/archive/2025/202511)
 
 - Slides
   - https://github.com/lmdexpr/slides
